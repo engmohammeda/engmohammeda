@@ -1,0 +1,8 @@
+{
+  "name": "Mohammed Albkhyty - Software Engineer Portfolio & Profile Studio",
+  "description": "Interactive developer portfolio, Riyadh Metro transit explorer, and GitHub profile README studio for Mohammed Albkhyty (@engmohammeda).",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
